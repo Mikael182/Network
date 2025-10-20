@@ -19,7 +19,7 @@ Please read `CONTRIBUTING.md` before submitting changes.
 - [WAF Overview](docs/WAF/overview.md)
 - [WAN Design](docs/WAN/design.md)
 - [LAN Topology](docs/LAN/topology.md)
-- [SD-WAN Architecture](docs/SD-WAN/architecture.md)
+- [SD-WAN Architecture](docs/SD-WAN/Network/docs/SD-WAN/architecture_SD-WAN.md)
 - [Firewall Rules and Zones](docs/Firewall/rules-and-zones.md)
 
 Additional references:
